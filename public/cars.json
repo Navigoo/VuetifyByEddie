@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "brand": "Audi",
+    "model": "RS4",
+    "price": "199000"
+  },
+  {
+    "id": "2",
+    "brand": "Porsche",
+    "model": "GT3",
+    "price": "299000"
+  },
+  {
+    "id": "3",
+    "brand": "BMW",
+    "model": "M3",
+    "price": "399000"
+  },
+  {
+    "id": "4",
+    "brand": "Bugatti",
+    "model": "Chiron",
+    "price": "499000"
+  },
+  {
+    "id": "5",
+    "brand": "Mercedes-Benz",
+    "model": "AMG GT-R",
+    "price": "599000"
+  },
+  {
+    "id": "6",
+    "brand": "SEAT",
+    "model": "CUPRA",
+    "price": "699000"
+  },
+  {
+    "id": "7",
+    "brand": "Skoda",
+    "model": "ENYAQ RS",
+    "price": "799000"
+  },
+  {
+    "id": "8",
+    "brand": "Volkswagen",
+    "model": "GOLF R",
+    "price": "899000"
+  },
+  {
+    "id": "9",
+    "brand": "Land Rover",
+    "model": "VELAR",
+    "price": "999000"
+  },
+  {
+    "id": "10",
+    "brand": "Lamborghini",
+    "model": "Huracan",
+    "price": "1099000"
+  }
+]
