@@ -38,7 +38,7 @@
     <v-app-bar>
       <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
       <div class="pl-3">
-        <v-avatar image="profil.PNG" size="50"></v-avatar>
+        <v-avatar :image="image" size="50"></v-avatar>
       </div>
       <v-toolbar-title>Vuetify by Eddie</v-toolbar-title>
       <v-btn @click="toggleTheme" variant="outlined">byt tema</v-btn>
@@ -50,7 +50,9 @@
 import { useTheme } from "vuetify";
 
 export default {
-  data: () => ({ drawer: null }),
+  data: () => ({
+    drawer: null,
+image: 'profil.PNG' }),
   setup() {
     const theme = useTheme();
     return {
