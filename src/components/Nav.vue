@@ -38,7 +38,7 @@
     <v-app-bar>
       <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
       <div class="pl-3">
-        <v-avatar image="src\assets\profil.PNG" size="50"></v-avatar>
+        <v-avatar image="profil.PNG" size="50"></v-avatar>
       </div>
       <v-toolbar-title>Vuetify by Eddie</v-toolbar-title>
       <v-btn @click="toggleTheme" variant="outlined">byt tema</v-btn>
